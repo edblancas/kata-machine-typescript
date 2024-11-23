@@ -84,7 +84,7 @@ for testing each day.
 
 #### Testing
 ```
-yarn test
+yarn test <prefix of .ts test file>
 ```
 
 I have yet to create a testing strategy for next sets of algorithms, but we
